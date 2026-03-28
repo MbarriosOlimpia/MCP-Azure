@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jcalderon\\Desktop\\Nueva carpeta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95093A2C-1062-D9AA-579B-7E47570F3CAB}|AzureDevOpsMcp\\AzureDevOpsMcp.csproj|c:\\users\\jcalderon\\desktop\\nueva carpeta\\azuredevopsmcp\\tools\\workitemtools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95093A2C-1062-D9AA-579B-7E47570F3CAB}|AzureDevOpsMcp\\AzureDevOpsMcp.csproj|solutionrelative:azuredevopsmcp\\tools\\workitemtools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95093A2C-1062-D9AA-579B-7E47570F3CAB}|AzureDevOpsMcp\\AzureDevOpsMcp.csproj|c:\\users\\jcalderon\\desktop\\nueva carpeta\\azuredevopsmcp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95093A2C-1062-D9AA-579B-7E47570F3CAB}|AzureDevOpsMcp\\AzureDevOpsMcp.csproj|solutionrelative:azuredevopsmcp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95093A2C-1062-D9AA-579B-7E47570F3CAB}|AzureDevOpsMcp\\AzureDevOpsMcp.csproj|c:\\users\\jcalderon\\desktop\\nueva carpeta\\azuredevopsmcp\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{95093A2C-1062-D9AA-579B-7E47570F3CAB}|AzureDevOpsMcp\\AzureDevOpsMcp.csproj|solutionrelative:azuredevopsmcp\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95093A2C-1062-D9AA-579B-7E47570F3CAB}|AzureDevOpsMcp\\AzureDevOpsMcp.csproj|c:\\users\\jcalderon\\desktop\\nueva carpeta\\azuredevopsmcp\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{95093A2C-1062-D9AA-579B-7E47570F3CAB}|AzureDevOpsMcp\\AzureDevOpsMcp.csproj|solutionrelative:azuredevopsmcp\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\jcalderon\\Desktop\\Nueva carpeta\\AzureDevOpsMcp\\README.md",
+              "RelativeDocumentMoniker": "AzureDevOpsMcp\\README.md",
+              "ToolTip": "C:\\Users\\jcalderon\\Desktop\\Nueva carpeta\\AzureDevOpsMcp\\README.md",
+              "RelativeToolTip": "AzureDevOpsMcp\\README.md",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-03-24T19:25:46.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WorkItemTools.cs",
+              "DocumentMoniker": "C:\\Users\\jcalderon\\Desktop\\Nueva carpeta\\AzureDevOpsMcp\\Tools\\WorkItemTools.cs",
+              "RelativeDocumentMoniker": "AzureDevOpsMcp\\Tools\\WorkItemTools.cs",
+              "ToolTip": "C:\\Users\\jcalderon\\Desktop\\Nueva carpeta\\AzureDevOpsMcp\\Tools\\WorkItemTools.cs",
+              "RelativeToolTip": "AzureDevOpsMcp\\Tools\\WorkItemTools.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAwwHkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T19:17:02.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jcalderon\\Desktop\\Nueva carpeta\\AzureDevOpsMcp\\Program.cs",
+              "RelativeDocumentMoniker": "AzureDevOpsMcp\\Program.cs",
+              "ToolTip": "C:\\Users\\jcalderon\\Desktop\\Nueva carpeta\\AzureDevOpsMcp\\Program.cs",
+              "RelativeToolTip": "AzureDevOpsMcp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T19:16:55.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NuGet.config",
+              "DocumentMoniker": "C:\\Users\\jcalderon\\Desktop\\Nueva carpeta\\AzureDevOpsMcp\\NuGet.config",
+              "RelativeDocumentMoniker": "AzureDevOpsMcp\\NuGet.config",
+              "ToolTip": "C:\\Users\\jcalderon\\Desktop\\Nueva carpeta\\AzureDevOpsMcp\\NuGet.config",
+              "RelativeToolTip": "AzureDevOpsMcp\\NuGet.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-03-24T19:15:15.936Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
